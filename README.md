@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MariaFlorez1504/mafe-portfolio-assets/raw/main/banner.png" alt="Maria - Senior Dev & Code Alchemist" />
+  <img src="https://github.com/MariaFlorez1504/MariaFlorez1504/raw/main/banner.png" alt="Maria - Senior Dev & Code Alchemist" />
 </p>
 
 ## 🧙‍♀️ Maria | Senior Dev & Code Alchemist
