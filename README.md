@@ -4,9 +4,9 @@
 
 ## 🧙‍♀️ Maria | Senior Dev & Code Alchemist
 
-- ⚔️ Backend Warrior: Java, Node.js, Express  
+- ⚔️ Backend Warrior: Java | Node.js | Express  
 - 🔮 Angular Sorceress | 🧩 React Apprentice  
-- 🌎 AWS Developer  
+- 🌐 AWS Developer  
 - 🧾 RESTful APIs | 🧠 Hexagonal Strategist  
 - 🔐 Secure coding spells | 🧬 Optimization rituals  
 - 🎮 Gamer | Anime explorer | Lore collector
